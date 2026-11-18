@@ -1,0 +1,6 @@
+{
+  "name": "Foodmaniac",
+  "description": "Fast-casual campus QSR, instant-prep snacks, craft mocktails, and interactive Gen Z mini-game hangout hub.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
